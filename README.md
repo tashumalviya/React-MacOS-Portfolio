@@ -42,9 +42,9 @@ git clone https://github.com/your-username/react-macos-portfolio.git
 
 Navigate to the project
 
-cd react-macos-portfolio
-npm install
-npm run dev
+``cd react-macos-portfolio``
+``npm install``
+``npm run dev``
 
 
 ## Author
