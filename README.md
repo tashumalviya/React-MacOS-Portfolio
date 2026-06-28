@@ -37,13 +37,15 @@ A modern MacOS-inspired portfolio built with React.js featuring an interactive d
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-macos-portfolio.git
+git clone https://github.com/tashumalviya/React-MacOS-Portfolio.git
 ```
 
 Navigate to the project
 
 ``cd react-macos-portfolio``
+
 ``npm install``
+
 ``npm run dev``
 
 
